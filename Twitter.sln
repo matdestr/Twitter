@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Twitter", "Twitter\Twitter\Twitter.shproj", "{2C98C230-A5E1-442B-9595-2B234A93460F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tweedows", "Twitter\Tweedows\Tweedows.csproj", "{10476929-F654-474C-BAC5-77A9EABA9E6E}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Twitter\Twitter\Twitter.projitems*{10476929-f654-474c-bac5-77a9eaba9e6e}*SharedItemsImports = 4
+		Twitter\Twitter\Twitter.projitems*{2c98c230-a5e1-442b-9595-2b234a93460f}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AppStore|Any CPU = AppStore|Any CPU
+		AppStore|ARM = AppStore|ARM
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		AppStore|x64 = AppStore|x64
+		AppStore|x86 = AppStore|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|Any CPU.ActiveCfg = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|Any CPU.Build.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|Any CPU.Deploy.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|ARM.ActiveCfg = Release|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|ARM.Build.0 = Release|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|ARM.Deploy.0 = Release|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|iPhone.ActiveCfg = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|iPhone.Build.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|iPhone.Deploy.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|iPhoneSimulator.ActiveCfg = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|iPhoneSimulator.Build.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|iPhoneSimulator.Deploy.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|x64.ActiveCfg = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|x64.Build.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|x64.Deploy.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|x86.ActiveCfg = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|x86.Build.0 = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.AppStore|x86.Deploy.0 = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|ARM.Build.0 = Debug|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|iPhone.ActiveCfg = Debug|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|iPhoneSimulator.ActiveCfg = Debug|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|x64.ActiveCfg = Debug|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|x64.Build.0 = Debug|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|x64.Deploy.0 = Debug|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|x86.ActiveCfg = Debug|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|x86.Build.0 = Debug|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Debug|x86.Deploy.0 = Debug|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|Any CPU.ActiveCfg = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|ARM.ActiveCfg = Release|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|ARM.Build.0 = Release|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|ARM.Deploy.0 = Release|ARM
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|iPhone.ActiveCfg = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|iPhoneSimulator.ActiveCfg = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|x64.ActiveCfg = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|x64.Build.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|x64.Deploy.0 = Release|x64
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|x86.ActiveCfg = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|x86.Build.0 = Release|x86
+		{10476929-F654-474C-BAC5-77A9EABA9E6E}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
